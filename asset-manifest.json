@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gerd-flashcards-react/static/css/main.299a94ce.css",
+    "main.js": "/gerd-flashcards-react/static/js/main.25c4f373.js",
+    "static/js/453.8a10dc0c.chunk.js": "/gerd-flashcards-react/static/js/453.8a10dc0c.chunk.js",
+    "index.html": "/gerd-flashcards-react/index.html",
+    "main.299a94ce.css.map": "/gerd-flashcards-react/static/css/main.299a94ce.css.map",
+    "main.25c4f373.js.map": "/gerd-flashcards-react/static/js/main.25c4f373.js.map",
+    "453.8a10dc0c.chunk.js.map": "/gerd-flashcards-react/static/js/453.8a10dc0c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.299a94ce.css",
+    "static/js/main.25c4f373.js"
+  ]
+}
